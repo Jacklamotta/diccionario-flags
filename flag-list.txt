@@ -6,6 +6,14 @@ FLAG.txt
 Fl4g.txt
 fL4g.txt
 fl4G.txt
+flag1.txt
+Flag1.txt
+FLag1.txt
+FLAg1.txt
+FLAG1.txt
+Fl4g1.txt
+fL4g1.txt
+fl4G1.txt
 flag2.txt
 Flag2.txt
 FLag2.txt
