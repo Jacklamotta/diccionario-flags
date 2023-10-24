@@ -11,6 +11,7 @@ Flag1.txt
 FLag1.txt
 FLAg1.txt
 FLAG1.txt
+fl4g1.txt
 Fl4g1.txt
 fL4g1.txt
 fl4G1.txt
